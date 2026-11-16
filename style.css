@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, "微軟正黑體", sans-serif;
+    background-color: #FDFDF9;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #C87A2F; /* 橘貓代表色 */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.content {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+}
+
+h2, h3 {
+    color: #C87A2F;
+}
+
+a {
+    color: #C87A2F;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    line-height: 2;
+}
